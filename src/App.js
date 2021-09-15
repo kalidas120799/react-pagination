@@ -39,8 +39,9 @@ export default class App extends Component {
                  {post.title}
               </li>
             )) : <div>Loading...</div>
-          }
-          <div className="mt-4 mr-3 d-flex justify-content-end" >
+          }          
+        </ul>
+        <div className="mt-4 mr-3 d-flex justify-content-end" >
             <Pagination
               postsPerPage={postsPerPage}
               totalPosts={posts.length}
@@ -48,7 +49,6 @@ export default class App extends Component {
               paginate={this.paginate}
             />
           </div>
-        </ul>
       </div>
     )
   }
