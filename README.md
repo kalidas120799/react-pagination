@@ -1,11 +1,7 @@
-# Simple React Pagination
+# React Pagination
 
-> Frontend pagination example using React with Hooks
+> Pagination example using React
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm install`
-
-### `npm start`
+![React Simple Pagination](https://github.com/kalidas120799/react-pagination/blob/master/src/assets/img/pagination1.png?raw=true)
+![React Simple Pagination](https://github.com/kalidas120799/react-pagination/blob/master/src/assets/img/pagination2.png?raw=true)
